@@ -2,8 +2,8 @@
 
 A modern cryptocurrency tracking application built with React, TypeScript, and Vite. Track real-time prices, market caps, and historical data for the top 50 cryptocurrencies.
 
-![Demo Screenshot]
-_[Add a screenshot of your application here]_
+![Demo Screenshot](./screenshots/demo1.png)
+![Demo Screenshot](./screenshots/demo2.png)
 
 ## Features
 
@@ -36,10 +36,10 @@ _[Add a screenshot of your application here]_
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/KaraboCoder/Top-Crypto-Assets
 
 # Navigate to the project directory
-cd <project-name>
+cd Top-Crypto-Assets
 
 # Install dependencies
 npm install
